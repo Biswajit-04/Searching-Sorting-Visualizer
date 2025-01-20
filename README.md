@@ -37,4 +37,8 @@ The Sorting and Searching Visualizer is a web-based application designed to help
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"></code>
 <code><img height="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
 
+Group Members : 
+1. Biswajit
+2. Manas Kr
+
 - Feel free to contribute to the project or report any issues you encounter!
