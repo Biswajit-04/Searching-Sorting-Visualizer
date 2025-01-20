@@ -20,7 +20,7 @@ As the name suggest this is a searching and sorting visualizer tool which will h
 
 <summary><h2><img src="https://media3.giphy.com/media/4H3Ii5eLChYul9p7NL/200w.webp?cid=ecf05e47xg8wh6okumvskrj9j7ol78erq7ja3xsgfnz5u1mj&rid=200w.webp&ct=g" align="center"
                 width="28" /> Preview</h2></summary>
-<img src="./Icon & SVG/preview.gif">
+<img src="./Icon & SVG/preview.gif.mp4">
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
                 width="28" /> Tools used</h2></summary>
