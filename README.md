@@ -14,7 +14,7 @@ The Sorting and Searching Visualizer is a web-based application designed to help
 
 ## Preview
 
-![Preview](./Icon & SVG/preview.gif)
+![Preview](./Icon_SVG/preview.gif)
 
 ### Prerequisites
 
