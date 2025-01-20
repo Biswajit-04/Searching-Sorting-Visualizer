@@ -1,34 +1,40 @@
 # SearchSort Viz
 
-As the name suggest this is a searching and sorting visualizer tool which will help user to intract and see searching and sorting algorithm's mentioned below
+## Overview
 
-<!-- We have a deployed our website using Firebase, you can visit it using - https://sorting-searching-visualizer.web.app/ -->
+The Sorting and Searching Visualizer is a web-based application designed to help users understand and explore various sorting and searching algorithms through dynamic visualizations. It provides an interactive platform to visualize how these algorithms work step by step.
 
-<summary><h2><img src="https://c.tenor.com/4SwrCQhVuOEAAAAi/future-glasses.gif" align="center"
-                width="28" /> Searching Algoritms implemented</h2></summary>
-<li>Linear Search</li>
-<li>Binary Search</li>
+## Features
 
-<summary><h2><img src="https://media2.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif?cid=ecf05e476msvnd04obk359nzwtuopelpx2pzno2s17lnpc1x&rid=giphy.gif&ct=g" align="center"
-                width="28" /> Sorting Algoritms implemented</h2></summary>
+- **Multiple Sorting Algorithms**: Visualizes various CPU scheduling algorithms such as Insertion Sort, Bubble Sort, Selection Sort, Merge Sort and Quick Sort.
+- **Multiple Searching Algorithms**: Visualizes various CPU scheduling algorithms such as Linear Search and Binary Search.
+- **User Interface**: Provides a web-based for easy interaction and visualization.
+- **Detailed Output**: Displays randomize arrays, speed and options for choosing algorithms.
+- **Custom Data Structures**: Tailored data structures for managing array and algorithms.
 
-<li>Insertion Sort</li>
-<li>Bubble Sort</li>
-<li>Selection Sort</li>
-<li>Merge Sort</li>
-<li>Quick Sort</li>
+## Preview
 
-<summary><h2><img src="https://media3.giphy.com/media/4H3Ii5eLChYul9p7NL/200w.webp?cid=ecf05e47xg8wh6okumvskrj9j7ol78erq7ja3xsgfnz5u1mj&rid=200w.webp&ct=g" align="center"
-                width="28" /> Preview</h2></summary>
+![Preview](./Icon & SVG/preview.gif)
 
-![Preview](./Icon & SVG/preview.gif.mp4)
+### Prerequisites
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
-                width="28" /> Tools used</h2></summary>
-<br>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code> 
+- Knowledge and Implementation of Sorting and Searching Algorithms.
+- VS Code with a modern web browser installed.
+- Knowledge on HTML/CSS & JavaScript.
+
+### Example
+
+- **To easily run the project, follow these steps:**:
+  1. Ensure you have a web browser (Google Chrome, Firefox, or Edge).
+  2. Download or clone the project repository.
+  3. Open it using Visual Studio Code.
+  4. Open the index.html file in your browser to start the application(Check all the extensions are installed properly).
+
+## Tools Used
+
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"></code>
 <code><img height="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<br>
+
+- Feel free to contribute to the project or report any issues you encounter!
