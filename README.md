@@ -1,4 +1,4 @@
-# SearchSort Viz
+# AlgoFinder
 
 ## Overview
 
